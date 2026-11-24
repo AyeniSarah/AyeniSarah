@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm based in **Kitchener, Ontario, Canada**, with an academic background in **Economics** and a professional background in **Sales**. I'm currently building my knowledge and technical capabilities in **Governance, Risk, and Compliance (GRC)**, with a growing interest in cybersecurity, IT risk management, and information security.
+I'm based in **Ontario, Canada**, with an academic background in **Economics** and a professional background in **Sales**. I'm currently building my knowledge and technical capabilities in **Governance, Risk, and Compliance (GRC)**, with a growing interest in cybersecurity, IT risk management, and information security.
 
 I'm passionate about understanding how organizations identify risks, strengthen internal controls, maintain compliance, and protect their digital environments.
 
