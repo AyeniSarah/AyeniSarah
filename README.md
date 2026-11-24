@@ -65,7 +65,7 @@ I'm a big soccer fan! I also enjoy unwinding with good podcasts, discovering new
 ## 📫 How to Reach Me
 
 - **Location:** Kitchener, Ontario, Canada
-- **Email:** sarahayenigbara@gmail.com]
+- **Email:** sarahayenigbara@gmail.com
 
 ---
 
